@@ -59,7 +59,7 @@
             <artifactId>lombok</artifactId>
         </dependency>
 
-        <!-- gson 依赖 主要是将json字符串，转换成其他类型-->
+        <!-- gson 依赖 主要是将json字符串，转换成其他类型哈哈哈哈-->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>

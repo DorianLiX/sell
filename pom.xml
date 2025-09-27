@@ -53,7 +53,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
-        <!--lombok依赖，主要用于实体类的getset,toString的自动更新zzzzdddd-->
+        <!--lombok依赖，主要用于实体类的getset,toString的自动更新zzzzddddasdfasdfsdfasdf-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
